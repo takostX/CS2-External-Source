@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="extcs2free.vcxproj" Id="23e59a2c-5b6b-49fd-87fd-36f67684e073" />
+</Solution>
